@@ -1,4 +1,4 @@
-#Number Guessing Game Objectives:
+#Number Guessing Game:
 
 import art
 import random
